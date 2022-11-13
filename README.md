@@ -10,4 +10,4 @@ View planets and space missions informations
 # 🧑‍💻 Technology
 - React
 
-This project was made to have my **first contact** with react
+This project was made to have my **first contact** with react, where I could learn about the use of components
