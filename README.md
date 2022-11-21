@@ -7,6 +7,8 @@ View planets and space missions informations
 
 <img src="./solar-system.png" alt="drawing" width="500"/>
 
+> estilização não aplicada
+
 # 🧑‍💻 Technology
 - React
 
